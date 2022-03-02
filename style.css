@@ -1,0 +1,89 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.universe{
+	position:absolute;
+	height: 150%;
+	width: 100%;
+}
+.bigbang{
+	position:absolute;
+	height: 150%;
+	width: 100%;
+	z-index: -1;
+}
+.next{
+	position:absolute;
+	color: white;
+	margin-left: 660px;
+	margin-top: 560px;
+	font-size: 500%;
+}
+.space{
+	position:absolute;
+	height: 130%;
+	width: 120%;
+	z-index: -1;
+}
+body{
+	
+	padding: 0;
+	margin: 0;
+}
+.earth{
+	position:absolute;
+	margin-left: 50%;
+	margin-top: 32%;
+	font-size: 40px;
+	color: pink;
+	opacity: 0%;
+}
+
+nav a:hover {
+	color: aqua;
+	background-color: brown;
+}
+
+nav {
+	font-size: 150%;
+	color: white;
+}
+
+.solar{
+	position: absolute;
+	margin-bottom:500px;
+}
+
+
+.corroted{
+	right: 230px;
+	top: 530px
+}
+
+body{
+	background-color: black;
+	width: auto;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+.mars{
+	position:absolute;
+	margin-left: 60%;
+	margin-top: 28%;
+	font-size: 40px;
+	opacity: 0%;
+
+		}
+
+
+
+
+
+
+
+
+
